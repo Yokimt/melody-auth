@@ -91,7 +91,7 @@ id = "7bcef02661304f60b16793542c4cb19c" # Replace with your own KV ID
 
 [[d1_databases]]
 binding = "DB"
-database_name = "auth"
+database_name = "melody-auth"
 database_id = "b2e115fb-1167-417e-a3ce-cabb6e891ce3" # Replace with your own D1 ID
 migrations_dir = "./migrations/sqlite"
 
